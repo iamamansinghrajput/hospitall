@@ -1,0 +1,101 @@
+
+
+.medicalReport{
+    display: flex;
+    padding: 10px;
+}
+
+.medicalReportleft{
+    width: 80%;
+    color: #000;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 2.5vw;
+}
+
+.medicalReportright{
+    background-color:#0062ff;
+    font-size: 2vw;
+    color: beige;
+    padding-left:20px ;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom:10px ;
+    border-radius: 5px;
+   
+}
+
+.patient{
+    display: flex;
+    padding: 10px;
+    background-color:#f5f5f5;
+    border-radius: 5px;
+    margin-left: 10px;
+
+}
+
+.patientleft{
+    width: 80%;
+    color: #000;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 2.5vw;
+}
+
+.patientright{
+    background-color:#0062ff;
+    font-size: 2vw;
+    color: beige;
+    padding-left:20px ;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom:10px ;
+    border-radius: 5px;
+   
+}
+
+.reportboard{
+    display: flex;
+    padding: 15px;
+    gap: 4%;
+}
+
+.reportboardvitals{
+    width: 33.3%;
+   background-color:#f5f5f5;
+    font-size: 1.7vw;
+    width: 40%;
+    border-radius: 5px;
+    padding-right: 80px;
+    padding-left: 10px ;
+    padding-top: 10px ;
+    padding-bottom: 10px;
+    
+}
+
+.reportboarddiagnosis{
+    width: 33.3%;
+    background-color:#f5f5f5;
+    font-size: 1.7vw;
+    width: 40%;
+    border-radius: 5px;
+    padding-right: 80px;
+    padding-left: 10px ;
+    padding-top: 10px ;
+    padding-bottom: 10px;
+}
+
+.reportboardprescriptions{
+    width: 33.3%;
+    background-color:#f5f5f5;
+    font-size: 1.7vw;
+    width: 90%;
+    height: 300px;
+    border-radius: 5px;
+    padding-right: 80px;
+    padding-left: 10px ;
+    padding-top: 10px ;
+    padding-bottom: 10px;
+    margin-left: 10px;
+}
+

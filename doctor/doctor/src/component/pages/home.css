@@ -1,0 +1,11 @@
+.home{
+    display: flex;
+    height: 600px;
+}
+.homeleft{
+    width: 20%;
+}
+.homeright{
+    width: 85%;
+}
+

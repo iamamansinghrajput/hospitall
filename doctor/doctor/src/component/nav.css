@@ -1,0 +1,53 @@
+.nav
+{
+    background-color:#f5f5f5;
+    color: black;
+    display: flex;
+   
+padding: 10px;
+}
+.navleft{
+    color: #000;
+    font-weight: bold;
+    font-size: 4vw;
+    padding: 5px;
+   width: 70%;
+}
+.dil{
+    color: red;
+}
+.navright{
+    display: flex;
+    width: 30%;
+    gap:15%;
+    padding: 1%;
+
+}
+
+.navreport{
+    background-color:#0062ff;
+    font-size: 2vw;
+    color: beige;
+    padding-left:25px ;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom:10px ;
+    border-radius: 5px;
+
+
+
+}
+
+.navprofile{
+    background-color: #28a745;
+    font-size: 2vw;
+    color: beige;
+    padding-left:25px ;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom:10px ;
+    border-radius: 5px;
+    
+    
+    
+}

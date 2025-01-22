@@ -1,0 +1,18 @@
+/* Ensure the body and html take full height */
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
+  /* Flex container for the layout */
+  .app-layout {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  /* Flex-grow for the main content */
+  main {
+    flex-grow: 1;
+  }
+  

@@ -1,0 +1,33 @@
+.dashboardbittom{
+    color: black;
+    padding-left: 2%;
+}
+.dashboardbittomnav{
+    display: flex;
+}
+
+.dashboardbittomleft{
+    width: 80%;
+}
+
+.dashboardbittomlogo{
+    color: #000;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 2.5vw;
+}
+.dashboardbittomright{
+    padding: 10px;
+}
+.dashboardbittomviewall{
+    color: #0062ff;
+    font-size: 2vw;
+    padding: 5px;
+    
+}
+
+.dashboardbittomreplist{
+    padding: 10px;
+}
+
+

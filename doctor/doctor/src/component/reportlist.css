@@ -1,0 +1,31 @@
+.reportlist{
+    color: black;
+    display: flex;
+    background-color: #f5f5f5;
+    padding: 5px;
+    margin-right: 3%;
+    border-radius: 5px;
+    margin-bottom: 5px;
+
+}
+
+.reportlistleft{
+    width: 80%;
+   
+}
+.reportname{
+    color: #000;
+    font-weight: bold;
+    font-size: 2vw;
+}
+
+.reportlistright{
+    padding: 5px;
+   
+}
+.reportview{
+    color: #0062ff;
+    font-size: 1.5vw;
+    
+
+}

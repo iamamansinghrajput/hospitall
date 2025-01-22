@@ -1,0 +1,10 @@
+.reporthome{
+    display: flex;
+    height: 800px;
+}
+.reporthomeleft{
+    width: 20%;
+}
+.reporthomeright{
+    width: 85%;
+}
