@@ -50,12 +50,14 @@ const Dashboardtop = (props) => {
         </div>
         <div className="dashboardtopbox col-md-4 mb-3">
           <div className="p-3 bg-light border rounded">
-            <strong>Prescriptions</strong>
+            <strong>Prescriptions</strong> <br />
+            <span className="text-success h5">0</span>
           </div>
         </div>
         <div className="dashboardtopbox col-md-4 mb-3">
           <div className="p-3 bg-light border rounded">
-            <strong>Appointments</strong>
+            <strong>Appointments</strong> <br />
+            <span className="text-success h5">0</span>
           </div>
         </div>
       </div>
